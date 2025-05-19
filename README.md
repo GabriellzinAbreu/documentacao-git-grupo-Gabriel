@@ -2,10 +2,11 @@
 Titulo:
 Documentando com GitHub
 
--Aprendendo mais com os comandos
--Documentando com a Wiki do Github
--Colaboração
--Criação de Issues com melhorias ou topicos a escrever
+-Criando ReadME (Gabriel)
+-Listando comandos e funcionalidades (Isabely)
+-Documentando com a Wiki do Github (Ambos)
+-Colaboração 
+-Criação de Issues com melhorias ou topicos a escrever (Ambos)
 
 https://github.com/GabriellzinAbreu
 https://github.com/2467isa
